@@ -2,7 +2,7 @@
 
 The Midterm exam will be based on building a Generative Adversarial Network (GAN) and using it to generate high resolution images for the binary classification problem you have already implemented in Assignment 1.
 
-Dataset: [Kaggle Retinal OCT images](ttps://www.kaggle.com/datasets/paultimothymooney/kermany2018)
+Dataset: [Kaggle Retinal OCT images](https://www.kaggle.com/datasets/paultimothymooney/kermany2018)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Dataset: [Kaggle Retinal OCT images](ttps://www.kaggle.com/datasets/paultimothym
 
  ### Steps
  
-- Train a binary classifier (called A) on the dataset using transfer learning (HW1). The images should be downscaled to 128x128
+- Train a binary classifier (called A) on the dataset using transfer learning (. The images should be downscaled to 128x128
 
 - Next, train the SRGAN to generate 128x128 images. Each image of the training is downscaled to 32x32.
 
