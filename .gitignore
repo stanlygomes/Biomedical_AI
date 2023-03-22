@@ -35,3 +35,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Data Files #
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# Model Files #
+*.h5
+*.pt
